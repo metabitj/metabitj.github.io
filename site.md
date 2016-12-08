@@ -4,7 +4,7 @@
 
 ### If this is your first time here, please read this:
 
-The purpose of this website is to keep all the notes (**only those notes that you recieve from your C.R. via email**) and papers in an organised way for the benefit of all B.E. students. Now, you don't have to worry about getting the notes or last year papers. Your email will no more be cluttered by the mails of your C.R. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete. We are trying to complete it as soon as possible.
+The purpose of this website is to keep all the notes (**only those notes that you recieve from your C.R. via email**) and papers in an organized way for the benefit of all B.E. students. Now, you don't have to worry about getting the notes or last year papers. Your email will no more be cluttered by the mails of your C.R. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete. We are trying to complete it as soon as possible.
 
 
 The files from the website will be downloaded in a `.zip` format. Many softwares are available for both desktops and phones to extract the zip files, so that should not be a problem. The database (notes and previous year papers) is stored in a Dropbox account.
@@ -38,7 +38,7 @@ Database structure (Dropbox Account):
   - .
   - VIII sem
     [same structure as above]
-    
+
 
 The subject list will contain both theory and practical subjects. Some practical subjects are omitted (like Physics Lab I sem) because either the questions in the exam are randomly selected from the list of experiments or if the question paper is not available)
 
@@ -48,7 +48,7 @@ Website structure:
 There are a few methods of downloading materials from the website.
 - If you want to download all the materials (notes and papers) of **all the subjects of any particular semester**, then click on the corresponding download link in [this table](#1-click-download-for-all-semesters)
 - If you want to download all the materials of any particular subject, then click on the corresponding `Browse Subjects` link in the same table. It will redirect you to another page where you can find the subject and download materials.
-- If you need something more specific, then you'll have to visit the dropbox page to get it. Link is provided below the table.
+- If you need something more specific, then you'll have to visit the Dropbox page to get it. Link is provided below the table.
 
 
 Exam Papers Nomenclature:
@@ -58,6 +58,10 @@ Most of the exam papers are scanned by the CamScanner App for a better digital v
 ```
 <subject_acronym>_<midsem/endsem>_<lab/labquiz/ >_<page_number>_<year>
 ```
+
+
+***
+
 
 #### 1-click download for all semesters:
 
@@ -74,6 +78,10 @@ Most of the exam papers are scanned by the CamScanner App for a better digital v
 | VIII 	| [CSE](https://www.dropbox.com/sh/du8zejj4bifxhu0/AABGUX8kg5u7tixe3w17BIS2a?dl=1) [ECE](https://www.dropbox.com/sh/25l7bf5uqt3jjny/AACoeC-Rx2F6lPTIQfkXDTu4a?dl=1) [EEE](https://www.dropbox.com/sh/h34hq7txv5k0f2y/AABZ5mihFM_pRBpp-7KHL7hDa?dl=1) | [CSE](#viii-semester-cse) [ECE](#viii-semester-ece) [EEE](#viii-semester-eee) |
 
 ### Need something more specific? Find it from the database [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
+
+
+***
+
 
 ## Browse Subjects
 ### I Semester
@@ -343,7 +351,6 @@ Most of the exam papers are scanned by the CamScanner App for a better digital v
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
 | EE8221 Utilization of Electrical Power | na     | na |
-
 
 
 ### Authors and Contributors
