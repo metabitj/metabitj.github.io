@@ -2,32 +2,7 @@
 
 > Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
 
-### If this is your first time here, please read this:
-
-The purpose of this website is to keep all the notes (**only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete.
-
-
-The files from the website will be downloaded in `.zip` format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (of any semester and stream, if applicable) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available.
-
-
-#### Website structure **(Important)**:
-
-There are a few methods of downloading materials from the website.
-- If you want to download all the materials (notes and papers) of **all the subjects of any particular semester**, then click on the corresponding download link in [this table](#1-click-download-for-all-semesters)
-- If you want to download all the materials of any particular subject, then click on the corresponding `Browse Subjects` link in the same table. It will redirect you to another page where you can find the subject and download materials.
-- If you need something more specific, then you'll have to visit the Dropbox page to get it. Link is provided below the table.
-
-
-#### Exam Papers Nomenclature:
-
-Papers are uploaded after scanning them from the CamScanner App. The files are named with the following convention.
-
-```
-<subject_acronym>_<midsem/endsem>_<lab/labquiz/ >_<page_number>_<year>
-```
-
-
-***
+### If this is your first time here, please read [this](help.html)
 
 
 #### 1-click download for all semesters:
@@ -128,12 +103,12 @@ Papers are uploaded after scanning them from the CamScanner App. The files are n
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
 | CS4107 Operating Systems                                | [here](https://www.dropbox.com/sh/nkwspdosnn3ln1t/AADr2vkHNu9otxbGKgfL3h2ma?dl=1)     | [here](https://www.dropbox.com/sh/d382z10y36tiv53/AADauc6w578jDk_iS9k3yNP1a?dl=1) |
-| CS4109 Computer Systems Architecture                    | na     | [here](https://www.dropbox.com/sh/916yeyehg08ih5v/AAAkLm7wOLJdxKx7RMJll7Jua?dl=1) |
+| CS4109 Computer System Architecture                     | na     | [here](https://www.dropbox.com/sh/916yeyehg08ih5v/AAAkLm7wOLJdxKx7RMJll7Jua?dl=1) |
 | CS4205 Database Management System                       | [here](https://www.dropbox.com/sh/m48pel6bt8s3a6t/AACTP702VeiTHnlO0ndlN7Cna?dl=1)     | [here](https://www.dropbox.com/sh/b9y226i7ejfwq9f/AAAw0dqfL5Upg7S_-xRXC4wqa?dl=1) |
 | HU4001 French                                           | na     | [here](https://www.dropbox.com/sh/eqhjyjdu0hfc2wc/AAC1VCKl1phMehnGPGxjtbSQa?dl=1) |
 | MA4109 Probability, Statistics and Numerical Techniques | na     | [here](https://www.dropbox.com/sh/xfelb8vxwio9c1q/AAAyRvpAQr5v1ZYTu8td3lCna?dl=1) |
 | CS4108 Operating Systems Lab                            | na     | [here](https://www.dropbox.com/sh/5y0bgn4r0ulvlqe/AADdLGMShI3dEUi9Se-uzaLSa?dl=1) |
-| CS4206 DBMS Lab Lab                                     | na     | [here](https://www.dropbox.com/sh/odx5vwmol99m3d3/AAC7t5J7bd1hwyV8pwOwsbCAa?dl=1) |
+| CS4206 DBMS Lab                                         | na     | [here](https://www.dropbox.com/sh/odx5vwmol99m3d3/AAC7t5J7bd1hwyV8pwOwsbCAa?dl=1) |
 | MA4110 Numerical Techniques Lab                         | na     | na |
 
 
