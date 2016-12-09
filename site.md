@@ -1,4 +1,4 @@
-### Exam Papers and Study Materials
+## Exam Papers and Study Materials
 
 > Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
 
@@ -7,24 +7,7 @@
 The purpose of this website is to keep all the notes (**only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete.
 
 
-The files from the website will be downloaded in a `.zip` format. Many softwares are available for both desktops and phones to extract the zip files. The database (notes and previous year papers) is stored in a Dropbox account.
-
-
-#### Database structure (Dropbox Account):
-
-- B.E.
-	- Semester
-		- CSE (if applicable)
-			- Subject 1
-				- Notes (if available)
-				- Papers
-					- 2016
-					- 2015 (if available) 
-			- ...
-		-  ...
-	- ...
-
-The subject list will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available.
+The files from the website will be downloaded in `.zip` format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (of any semester and stream, if applicable) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available.
 
 
 #### Website structure **(Important)**:
@@ -61,7 +44,7 @@ Papers are uploaded after scanning them from the CamScanner App. The files are n
 | VII		| [CSE](https://www.dropbox.com/sh/sffgzn9bg43hrdu/AABJ23t0SGfKa2707cAPR-h7a?dl=1) [ECE](https://www.dropbox.com/sh/ad8wd89ou79o974/AADsuZE2d4_vhxXdBXcv6Cjna?dl=1) [EEE](https://www.dropbox.com/sh/7oq9c2dlgsbgqsj/AAAK_ZJ3oMBtjID7TV_YRigTa?dl=1) | [CSE](#vii-semester-cse) [ECE](#vii-semester-ece) [EEE](#vii-semester-eee) |
 | VIII 	| [CSE](https://www.dropbox.com/sh/du8zejj4bifxhu0/AABGUX8kg5u7tixe3w17BIS2a?dl=1) [ECE](https://www.dropbox.com/sh/25l7bf5uqt3jjny/AACoeC-Rx2F6lPTIQfkXDTu4a?dl=1) [EEE](https://www.dropbox.com/sh/h34hq7txv5k0f2y/AABZ5mihFM_pRBpp-7KHL7hDa?dl=1) | [CSE](#viii-semester-cse) [ECE](#viii-semester-ece) [EEE](#viii-semester-eee) |
 
-### Need something more specific? Find it from the database [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
+### Need something more specific? Find it from Dropbox [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
 
 
 ***
@@ -349,4 +332,5 @@ Materials provided by:
 
 ### Support or Contact
 [shubhambhattar](https://www.github.com/shubhambhattar)
+
 
