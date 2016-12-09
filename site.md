@@ -1,49 +1,16 @@
-### Exam Papers and study material (currently **only for B.E. CSE students**)
+## Exam Papers and Study Materials
 
 > Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
 
 ### If this is your first time here, please read this:
 
-The purpose of this website is to keep all the notes (**only those notes that you recieve from your C.R. via email**) and papers in an organized way for the benefit of all B.E. students. Now, you don't have to worry about getting the notes or last year papers. Your email will no more be cluttered by the mails of your C.R. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete. We are trying to complete it as soon as possible.
+The purpose of this website is to keep all the notes (**only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete.
 
 
-The files from the website will be downloaded in a `.zip` format. Many softwares are available for both desktops and phones to extract the zip files, so that should not be a problem. The database (notes and previous year papers) is stored in a Dropbox account.
+The files from the website will be downloaded in `.zip` format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (of any semester and stream, if applicable) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available.
 
 
-Database structure (Dropbox Account):
-
-- B.E.
-  - I sem
-    - Subject 1
-      - Notes (if available)
-      - Papers
-        - 2016
-        - 2015 (if available)
-        - .
-    - Subject 2
-      [same structure as above]
-  - II sem
-    [same structure as above]
-  - III sem
-    - CSE
-      - Subject 1
-        [same structure as above]
-    - ECE
-      - Subject 1
-        [same structure as above]
-    - EEE
-      - Subject 1
-        [same structure as above]
-  - .
-  - .
-  - VIII sem
-    [same structure as above]
-
-
-The subject list will contain both theory and practical subjects. Some practical subjects are omitted (like Physics Lab I sem) because either the questions in the exam are randomly selected from the list of experiments or if the question paper is not available)
-
-
-Website structure:
+#### Website structure **(Important)**:
 
 There are a few methods of downloading materials from the website.
 - If you want to download all the materials (notes and papers) of **all the subjects of any particular semester**, then click on the corresponding download link in [this table](#1-click-download-for-all-semesters)
@@ -51,9 +18,9 @@ There are a few methods of downloading materials from the website.
 - If you need something more specific, then you'll have to visit the Dropbox page to get it. Link is provided below the table.
 
 
-Exam Papers Nomenclature:
+#### Exam Papers Nomenclature:
 
-Most of the exam papers are scanned by the CamScanner App for a better digital version of the paper. The files are named with the following convention.
+Papers are uploaded after scanning them from the CamScanner App. The files are named with the following convention.
 
 ```
 <subject_acronym>_<midsem/endsem>_<lab/labquiz/ >_<page_number>_<year>
@@ -77,7 +44,7 @@ Most of the exam papers are scanned by the CamScanner App for a better digital v
 | VII		| [CSE](https://www.dropbox.com/sh/sffgzn9bg43hrdu/AABJ23t0SGfKa2707cAPR-h7a?dl=1) [ECE](https://www.dropbox.com/sh/ad8wd89ou79o974/AADsuZE2d4_vhxXdBXcv6Cjna?dl=1) [EEE](https://www.dropbox.com/sh/7oq9c2dlgsbgqsj/AAAK_ZJ3oMBtjID7TV_YRigTa?dl=1) | [CSE](#vii-semester-cse) [ECE](#vii-semester-ece) [EEE](#vii-semester-eee) |
 | VIII 	| [CSE](https://www.dropbox.com/sh/du8zejj4bifxhu0/AABGUX8kg5u7tixe3w17BIS2a?dl=1) [ECE](https://www.dropbox.com/sh/25l7bf5uqt3jjny/AACoeC-Rx2F6lPTIQfkXDTu4a?dl=1) [EEE](https://www.dropbox.com/sh/h34hq7txv5k0f2y/AABZ5mihFM_pRBpp-7KHL7hDa?dl=1) | [CSE](#viii-semester-cse) [ECE](#viii-semester-ece) [EEE](#viii-semester-eee) |
 
-### Need something more specific? Find it from the database [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
+### Need something more specific? Find it from Dropbox [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
 
 
 ***
@@ -354,8 +321,7 @@ Most of the exam papers are scanned by the CamScanner App for a better digital v
 
 
 ### Authors and Contributors
-----------------------------
-Page and database created by: @shubhambhattar
+Page and database created by: [shubhambhattar](https://www.github.com/shubhambhattar)
 
 Materials provided by:
 - Puru Raj Jain
@@ -365,5 +331,6 @@ Materials provided by:
 - Shubham Bhattar
 
 ### Support or Contact
----------------------
-@shubhambhattar
+[shubhambhattar](https://www.github.com/shubhambhattar)
+
+
