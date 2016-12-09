@@ -103,12 +103,12 @@
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
 | CS4107 Operating Systems                                | [here](https://www.dropbox.com/sh/nkwspdosnn3ln1t/AADr2vkHNu9otxbGKgfL3h2ma?dl=1)     | [here](https://www.dropbox.com/sh/d382z10y36tiv53/AADauc6w578jDk_iS9k3yNP1a?dl=1) |
-| CS4109 Computer Systems Architecture                    | na     | [here](https://www.dropbox.com/sh/916yeyehg08ih5v/AAAkLm7wOLJdxKx7RMJll7Jua?dl=1) |
+| CS4109 Computer System Architecture                     | na     | [here](https://www.dropbox.com/sh/916yeyehg08ih5v/AAAkLm7wOLJdxKx7RMJll7Jua?dl=1) |
 | CS4205 Database Management System                       | [here](https://www.dropbox.com/sh/m48pel6bt8s3a6t/AACTP702VeiTHnlO0ndlN7Cna?dl=1)     | [here](https://www.dropbox.com/sh/b9y226i7ejfwq9f/AAAw0dqfL5Upg7S_-xRXC4wqa?dl=1) |
 | HU4001 French                                           | na     | [here](https://www.dropbox.com/sh/eqhjyjdu0hfc2wc/AAC1VCKl1phMehnGPGxjtbSQa?dl=1) |
 | MA4109 Probability, Statistics and Numerical Techniques | na     | [here](https://www.dropbox.com/sh/xfelb8vxwio9c1q/AAAyRvpAQr5v1ZYTu8td3lCna?dl=1) |
 | CS4108 Operating Systems Lab                            | na     | [here](https://www.dropbox.com/sh/5y0bgn4r0ulvlqe/AADdLGMShI3dEUi9Se-uzaLSa?dl=1) |
-| CS4206 DBMS Lab Lab                                     | na     | [here](https://www.dropbox.com/sh/odx5vwmol99m3d3/AAC7t5J7bd1hwyV8pwOwsbCAa?dl=1) |
+| CS4206 DBMS Lab                                         | na     | [here](https://www.dropbox.com/sh/odx5vwmol99m3d3/AAC7t5J7bd1hwyV8pwOwsbCAa?dl=1) |
 | MA4110 Numerical Techniques Lab                         | na     | na |
 
 
