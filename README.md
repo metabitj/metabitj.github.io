@@ -3,17 +3,14 @@
 
 > Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
 
-### Authors and Contributors
+### Database Maintainers
 ----------------------------
-Page and database created by: @shubhambhattar
 
-Materials provided by:
-- Puru Raj Jain
-- Himanshu Sharma
-- Shubham Mathur
-- Apurv Agarwal
-- Shubham Bhattar   
+- CSE: Puru Raj Jain (B.E. CSE VI)
+- ECE: Tapish Jain (B.E. ECE VI)
+- EEE: Tripti Katara (B.E. EEE VI)
 
-### Support or Contact   
----------------------   
-@shubhambhattar
+### Website Maintainer   
+---------------------
+
+[Shubham Bhattar](https://github.com/shubhambhattar) (B.E. CSE VIII)
