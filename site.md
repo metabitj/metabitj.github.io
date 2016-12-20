@@ -21,6 +21,21 @@
 
 ### Need something more specific? Find it from Dropbox [here](https://www.dropbox.com/sh/dl01zurbkv92jcs/AADOjACbs91zNJbvda2OGDqqa?dl=0).
 
+### Database Maintainers
+-------------------------
+
+- CSE: Puru Raj Jain (B.E. CSE VI)
+- ECE: Tapish Jain (B.E. ECE VI)
+- EEE: Tripti Katara (B.E. EEE VI)
+
+
+### Website Maintainer
+-----------------------
+
+[Shubham Bhattar](https://github.com/shubhambhattar) (B.E. CSE VIII)
+
+
+#### If you want to add something to the database, then please contact the respective database maintainer.
 
 ***
 
@@ -56,9 +71,10 @@
 | CS2302 Data Structures Lab                   | [here](https://www.dropbox.com/sh/87rxklmm1dptnmw/AABvMaxrpwweVhCCR2VKKUb8a?dl=1)     | [here](https://www.dropbox.com/sh/kb443cnhflcikac/AACJeex2PyBP5Z9ZKgh860-ra?dl=1) |
 
 
-### III Semester [CSE]
+### III Semester
 (1-click download for subjects of III semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -71,8 +87,7 @@
 
 
 
-### III Semester [ECE]
-(1-click download for subjects of III semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -84,8 +99,7 @@
 | EE3205 Network Theory                             | na     | na |
 
 
-### III Semester [EEE]
-(1-click download for subjects of III semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
@@ -96,9 +110,10 @@
 | EE3205 Network Theory                             | na     | na |
 | EE3207 Electric Energy Generation and Control                      | na     | na |
 
-### IV Semester [CSE]
+### IV Semester
 (1-click download for subjects of IV semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -113,8 +128,7 @@
 
 
 
-### IV Semester [ECE]
-(1-click download for subjects of IV semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -126,8 +140,7 @@
 | HU4001 French                              | na     | [here](https://www.dropbox.com/sh/eqhjyjdu0hfc2wc/AAC1VCKl1phMehnGPGxjtbSQa?dl=1) |
 
 
-### IV Semester [EEE]
-(1-click download for subjects of IV semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
@@ -139,9 +152,10 @@
 | HU4001 French                                     | na     | [here](https://www.dropbox.com/sh/eqhjyjdu0hfc2wc/AAC1VCKl1phMehnGPGxjtbSQa?dl=1) |
 
 
-### V Semester [CSE]
+### V Semester
 (1-click download for subjects of V semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -156,8 +170,7 @@
 
 
 
-### V Semester [ECE]
-(1-click download for subjects of V semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -169,8 +182,7 @@
 | MSH1131 Principles of Management       | na     | na |
 
 
-### V Semester [EEE]
-(1-click download for subjects of V semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
@@ -182,9 +194,10 @@
 | MSH1131 Principles of Management             | na     | na |
 
 
-### VI Semester [CSE]
+### VI Semester
 (1-click download for subjects of VI semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -200,8 +213,7 @@
 
 
 
-### VI Semester [ECE]
-(1-click download for subjects of VI semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -213,8 +225,7 @@
 | MSH1137 Economics                                 | [here](https://www.dropbox.com/sh/ymyfwv48c5vva4f/AAAwlUKtQfXH_ymIJCJsFvoza?dl=1)     | [here](https://www.dropbox.com/sh/gnas852bt0z0td2/AAC9-nXNJ68uI7T64DIwI04da?dl=1) |
 
 
-### VI Semester [EEE]
-(1-click download for subjects of VI semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
@@ -226,9 +237,10 @@
 | MSH1137 Economics                    | [here](https://www.dropbox.com/sh/ymyfwv48c5vva4f/AAAwlUKtQfXH_ymIJCJsFvoza?dl=1)     | [here](https://www.dropbox.com/sh/gnas852bt0z0td2/AAC9-nXNJ68uI7T64DIwI04da?dl=1) |
 
 
-### VII Semester [CSE]
+### VII Semester
 (1-click download for subjects of VII semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -240,8 +252,7 @@
 
 
 
-### VII Semester [ECE]
-(1-click download for subjects of VII semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -253,8 +264,7 @@
 | MSH1109 Entrepreneurship and Small Business Management | [here](https://www.dropbox.com/sh/gzghj0ahg8w6q0k/AAAPEl1YXJS447ycPOOA6cjSa?dl=1)     | [here](https://www.dropbox.com/sh/30nv705dlxyy389/AAB_ghKLekXbr9lQ6n3RVM5ka?dl=1) |
 
 
-### VII Semester [EEE]
-(1-click download for subjects of VII semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
@@ -265,9 +275,10 @@
 | MSH1109 Entrepreneurship and Small Business Management | [here](https://www.dropbox.com/sh/gzghj0ahg8w6q0k/AAAPEl1YXJS447ycPOOA6cjSa?dl=1)     | [here](https://www.dropbox.com/sh/30nv705dlxyy389/AAB_ghKLekXbr9lQ6n3RVM5ka?dl=1) |
 
 
-### VIII Semester [CSE]
+### VIII Semester
 (1-click download for subjects of VIII semester)
 
+### CSE
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
@@ -277,8 +288,7 @@
 
 
 
-### VIII Semester [ECE]
-(1-click download for subjects of VIII semester)
+### ECE
 
 
 | Subject	        | Notes	| Papers |
@@ -286,26 +296,11 @@
 | MEC2067 VDHL & Verilog | na     | na |
 
 
-### VIII Semester [EEE]
-(1-click download for subjects of VIII semester)
+### EEE
 
 
 | Subject	        | Notes	| Papers |
 |-----------------------|-------|--------|
 | EE8221 Utilization of Electrical Power | na     | na |
-
-
-### Authors and Contributors
-Page and database created by: [shubhambhattar](https://www.github.com/shubhambhattar)
-
-Materials provided by:
-- Puru Raj Jain
-- Himanshu Sharma
-- Shubham Mathur
-- Apurv Agarwal
-- Shubham Bhattar
-
-### Support or Contact
-[shubhambhattar](https://www.github.com/shubhambhattar)
 
 
