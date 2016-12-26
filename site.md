@@ -24,7 +24,8 @@
 ### Database Maintainers
 -------------------------
 
-- CSE: Puru Raj Jain (B.E. CSE VI)
+- I & II sem: Puru Raj Jain (B.E. CSE VI)
+- CSE: Puru Raj Jain
 - ECE: Tapish Jain (B.E. ECE VI)
 - EEE: Tripti Katara (B.E. EEE VI)
 
