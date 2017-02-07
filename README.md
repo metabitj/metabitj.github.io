@@ -3,10 +3,9 @@
 
 > Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
 
-The purpose of this website is to keep all the notes (**only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need. At this point (9 Dec, 2016), the database is incomplete.
+The purpose of this website is to keep all the notes ( **only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need.
 
-
-The files from the website will be downloaded in `.zip` format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (of any semester and stream, if applicable) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available.
+The files from the website will be downloaded in .zip format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (Browse Subjects option) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available. 
 
 
 #### Website structure **(Important)**:
