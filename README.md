@@ -4,7 +4,7 @@
 ## Motivation
 This project was started by [@shubhambhattar](https://github.com/shubhambhattar) during the End semester examinations in Nov 2016. The motivation was to improve the way we share exam papers and study materials during the semesters.
 
-It is no surprise that the same materials are provided to every new batch. Lots of emails from the CR (Class Representative) are forwarded and WhatsApp groups are filled with queries like "Please send `<subject>` paper" during exam time. And the quality of images recieved of papers were very bad (most of the time).
+It is no surprise that the same material is provided to every new batch. Lots of emails from the CR (Class Representative) are forwarded and WhatsApp groups are filled with queries like "Please send `<subject>` paper" during exam time. And the quality of images recieved of papers were very bad (most of the time).
 
 This website aims to remove all those inefficiencies by creating a simple solution to the above problem. Let's not burden CR with all the work. They are not just there to send us all the materials. People should make an effort to get themselves what they want.
 
