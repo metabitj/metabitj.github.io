@@ -4,18 +4,18 @@
 ## Motivation
 This project was started by [@shubhambhattar](https://github.com/shubhambhattar) during the End semester examinations in Nov 2016. The motivation was to improve the way we share exam papers and study materials during the semesters.
 
-It is no surprise that the same materials are provided to every new batch and lots of emails are forwarded. For me, it was no better than spamming. Lots of emails from the CR (Class Representative) and WhatsApp groups filled with "Please send `<subject>` paper" during exam time. And the quality of images recieved of papers were very bad (most of the time).
+It is no surprise that the same materials are provided to every new batch. Lots of emails from the CR (Class Representative) are forwarded and WhatsApp groups are filled with queries like "Please send `<subject>` paper" during exam time. And the quality of images recieved of papers were very bad (most of the time).
 
-This website aims to remove all these inefficiencies by creating a simple solution to the above problem. Let's not burden CR with all the work. They are not just there send us all the materials. People should make an effort to help themselves (get what they want by just visiting the website instead of commanding the CR to forward those mails).
+This website aims to remove all those inefficiencies by creating a simple solution to the above problem. Let's not burden CR with all the work. They are not just there to send us all the materials. People should make an effort to get themselves what they want.
 
 ## Choosing an Online Storage service to store files
-I chose Dropbox to store all the files. One of the main issues was to get enough bandwidth in a free-tier - there is a daily limit to the amount of bandwidth that can be used in free-tier. Even though the storage provided in the free-tier was less, the bandwidth limits seemed fine. I decided to put a backup in [MediaFire](https://mediafire.com) (for progress on this, check Projects tab above) because it does not have bandwidth limitations but it has following disadvantages:
+I chose Dropbox to store all the files. One of the main issues was to get enough bandwidth in a free-tier - there is a daily limit to the amount of bandwidth that can be used in free-tier. Even though the storage provided in Dropbox's free-tier was less, the bandwidth limits seemed fine. I decided to put a backup in [MediaFire](https://mediafire.com) (for progress on this, check Projects tab above) because it does not have bandwidth limitations but it has following disadvantages:
 - Contains ads
 - Every file has to downloaded individually (which can be a pain when anyone has to download multiple files, a general use case scenario). No option to download a folder.
 Thus, Mediafire could work as a decent backup serivce.
 
 ## Organising the data
-In a higher level, the data could have been classified on the basis of either **Streams** or **Semesters**. I chose Semesters and it worked perfectly for first year - all the subects in first year are same, makes no sense for Streams in them. The hierarchial structure is given below:
+In a higher level, the data could have been classified on the basis of either **Streams** or **Semesters**. The hierarchial structure is given below:
 
 - B.E.
   - I
