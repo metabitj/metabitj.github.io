@@ -42,33 +42,27 @@ In a higher level, the data could have been classified on the basis of either **
     - ECE
     - EEE
 
-
----
-> Note: The papers are of BIT Mesra mid-semester and end-semester examinations. Study materials are those that you receive in your e-mail from your respective C.R.
-
-The purpose of this website is to keep all the notes ( **only those notes that you receive from your C.R. via email**) and papers in an organized way. Now, you don't have to worry about getting the notes or last year papers. Just visit the website and download whatever you need.
-
-The files from the website will be downloaded in .zip format. The database (notes and previous year papers) is stored in a Dropbox account. The subject list (Browse Subjects option) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available. 
-
-
-#### Website structure **(Important)**:
-
-There are a few methods of downloading materials from the website.
-- If you want to download all the materials (notes and papers) of **all the subjects of any particular semester**, then click on the corresponding download link in [this table](#1-click-download-for-all-semesters)
-- If you want to download all the materials of any particular subject, then click on the corresponding `Browse Subjects` link in the same table. It will redirect you to another page where you can find the subject and download materials.
-- If you need something more specific, then you'll have to visit the Dropbox page to get it. Link is provided below the table.
+In the website, there are three options to download the data.
+- A student can download the materials of the whole semester in a single click by choosing Semester and Stream in the index page.
+- If not the whole package, then the student can go the particular webpage link for the semester and has the option to choose the Subjects in that semester and whether he/she wants to download `Midsem`, `Endsem` or `Notes` of that subject.
+- The last option is to browse through the Dropbox account and find the exact file to download - an option necessary in case any new file is uploaded during the semester (see Changelog below).
 
 Each semester's webpage will contain a **Changelog** at the bottom. This will record all the changes made in the databse for that particular semester (with dates and stream) for future reference. This way, students won't have to check the databse each time for any new content uploads. 
 
-#### Exam Papers Nomenclature:
-
-Papers are uploaded after scanning them from the CamScanner App. The files are named with the following convention.
+Papers are uploaded after scanning them from the CamScanner App (to get a good quality image). The files are named with the following convention.
 
 ```
 <subject_acronym>_<midsem/endsem>_<year>_<lab/labquiz/ >_<page_number>
 ```
 
-***
+
+> Note: All files from the website will be downloaded in `.zip` format. The subject list (Browse Subjects option) will contain both theory and practical subjects. Some practical subjects are omitted if question papers are not available. 
+
+## Contributing to the database
+
+It would be impractical for a single person to manage all the materials and papers for every semsester and stream. So, three  volunteers were choosen from III year - each from a different branch. A volunteer will manage the materials of his/her stream. I & II semester work would be shuffled among them.
+
+And to simplify their work, an option to directly upload the materials and papers was added in the website in the [Contribute](https://metabitj.github.io/contribute.html) page. The uploaded materials will be reviewed by the volunteers (who are provided access to the database). Thus, any student can now add to the database reducing the legwork for the volunteers.
 
 
 ### Database Maintainers
