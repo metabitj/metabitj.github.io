@@ -70,12 +70,12 @@ And to simplify their work, an option to directly upload the materials and paper
 ### Database Maintainers
 ----------------------------
 
-- I & II sem: Puru Raj Jain (B.E. CSE VI)
-- CSE: Puru Raj Jain
-- ECE: Tapish Jain (B.E. ECE VI)
-- EEE: Tripti Katara (B.E. EEE VI)
+- I & II sem: Divik Mittal(B.E. CSE 5th)
+- CSE: Divik Mittal
+- ECE:
+- EEE:
 
 ### Website Maintainer   
 ---------------------
 
-[Shubham Bhattar](https://github.com/shubhambhattar) (B.E. CSE VIII)
+[Shubham Bhattar](https://github.com/shubhambhattar) (B.E. CSE 2017)
