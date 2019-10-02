@@ -70,9 +70,9 @@ And to simplify their work, an option to directly upload the materials and paper
 ### Database Maintainers
 ----------------------------
 
-- I & II sem: Divik Mittal(B.E. CSE 5th)
+- I & II sem: Divik Mittal(B.E. CSE 7th)
 - CSE: Divik Mittal
-- ECE:
+- ECE: Deepesh Baid(B.E. ECE 5th)
 - EEE:
 
 ### Website Maintainer   
