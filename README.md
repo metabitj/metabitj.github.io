@@ -47,7 +47,7 @@ In the website, there are three options to download the data.
 - If not the whole package, then the student can go the particular webpage link for the semester and has the option to choose the Subjects in that semester and whether he/she wants to download `Midsem`, `Endsem` or `Notes` of that subject.
 - The last option is to browse through the Dropbox account and find the exact file to download - an option necessary in case any new file is uploaded during the semester (see Changelog below).
 
-Each semester's webpage will contain a **Changelog** at the bottom. This will record all the changes made in the databse for that particular semester (with dates and stream) for future reference. This way, students won't have to check the databse each time for any new content uploads. The reviewer(volunteer) has to check for the following things:
+Each semester's webpage will contain a **Changelog** at the bottom. This will record all the changes made in the database for that particular semester (with dates and stream) for future reference. This way, students won't have to check the database each time for any new content uploads. The reviewer(volunteer) has to check for the following things:
 - No copyrighted material gets stored in the database.
 - No redundancy occurs.
 
@@ -70,9 +70,9 @@ And to simplify their work, an option to directly upload the materials and paper
 ### Database Maintainers
 ----------------------------
 
-- I & II sem: Divik Mittal(B.E. CSE 7th)
-- CSE: Divik Mittal
-- ECE: Deepesh Baid(B.E. ECE 5th)
+- I & II sem: Deepesh Baid(B.E. ECE 6th)
+- CSE: 
+- ECE: Deepesh Baid(B.E. ECE 6th)
 - EEE:
 
 ### Website Maintainer   
